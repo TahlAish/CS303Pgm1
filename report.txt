@@ -1,0 +1,4 @@
+Sort Name       File            Swaps        Comparisons     Loops        Time(ns)       
+RadixSort       data1.txt       7992         998             13026        442000         
+RadixSort       data2.txt       7992         998             13026        438625         
+RadixSort       data3.txt       7992         998             13026        465166         
